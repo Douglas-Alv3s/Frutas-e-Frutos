@@ -1,0 +1,26 @@
+@import "base/normalize.css";
+@import "base/reset.css";
+
+@import "cabecalho/cabecalho.css";
+@import "cabecalho/cabecalho.css";
+
+@import "menu/menu.css";
+@import "menu/menu-item.css";
+@import "menu/menu-link.css";
+@import "menu/menu-lista.css";
+
+@import "banner/banner.css";
+@import "banner/banner-image.css";
+@import "banner/banner-titulo.css";
+
+@import "sobre/sobre.css";
+@import "sobre/sobre-titulo.css";
+@import "sobre/sobre-descricao.css";
+
+@import "receita/receitas.css";
+@import "receita/receita.css";
+@import "receita/receita__imagem.css";
+@import "receita/receita__titulo.css";
+@import "receita/receita__conteudo.css";
+@import "receita/receita__descricao.css";
+@import "receita/receita__butao.css";
