@@ -24,3 +24,16 @@
 @import "receita/receita__conteudo.css";
 @import "receita/receita__descricao.css";
 @import "receita/receita__botao.css";
+
+@import "quem-somos/quem-somos.css";
+@import "quem-somos/quem-somos__titulo.css";
+@import "quem-somos/quem-somos__descricao.css";
+
+@import "pessoa/pessoas.css";
+@import "pessoa/pessoa.css";
+@import "pessoa/pessoa__funcao.css";
+@import "pessoa/pessoa__nome.css";
+@import "pessoa/pessoa__imagem.css";
+@import "pessoa/pessoa__imagem_andreia.css";
+@import "pessoa/pessoa__imagem_marcela.css";
+@import "pessoa/pessoa__imagem_roberta.css";
